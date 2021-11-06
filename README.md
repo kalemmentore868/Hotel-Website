@@ -1,3 +1,4 @@
 # Hotel website
 
-parctice hotel website
+A Practice hotel website
+
